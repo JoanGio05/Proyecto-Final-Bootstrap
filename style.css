@@ -1,9 +1,5 @@
 *{
     margin: 0px;
-   /* height: 3000px;*/
-}
-@media (max-width: 768px) {
-    #fondo{
-        background-color: aqua;
-    }
+    font-family: 'Lato', sans-serif;
+font-family: 'Poppins', sans-serif;
 }
